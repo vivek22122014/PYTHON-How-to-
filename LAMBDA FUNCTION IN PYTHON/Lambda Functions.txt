@@ -1,0 +1,1 @@
+We use lambda functions when we require a nameless function for a short period of time.

@@ -6,4 +6,4 @@ d= datetime.now()
 
 print(d)
 
-#output :
+#output : 2020-09-16 07:02:55.956082
