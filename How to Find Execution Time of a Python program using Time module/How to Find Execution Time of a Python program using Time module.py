@@ -17,9 +17,9 @@ if __name__ == '__main__':
     init=time()
     for i in range(0,100000):
         func1(3,5)
-    print("Mohan Das program Time",time()-init)
+    
 
-    init=time()
+    
     for i in range(0,100000):
         func2(3,5)
-    print("The hacking stuff Time",time()-init)
+    print("Overall Time",time()-init)
