@@ -6,7 +6,7 @@ def factorial(number):
 
 
     elif(number==0):
-        print(1)
+        return 1
 
     else:
         for i in range(1,number+1):
@@ -23,3 +23,4 @@ if __name__=='__main__':
 
     
     print("The factorial of",number,"is",factorial(number))
+    a=input()
